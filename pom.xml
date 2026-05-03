@@ -13,7 +13,7 @@
     <description>Parent project for student microservices</description>
 
     <modules>
-        <!-- Les modules seront ajoutés ici -->
+        <module>eureka-server</module>
     </modules>
 
     <properties>
